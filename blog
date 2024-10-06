@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Blog</title>
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./assets/font/flaticon.css">
+    <link rel="stylesheet" href="./css/media-queries.css">
+</head>
+<body class="home-body">
+    <header>
+        <section class="header-icons-container">
+            <div class="icons">
+                <a href="/"><span class="flaticon-001-facebook"></span></a>
+                <a href="/"><span class="flaticon-002-twitter"></span></a>
+                <a href="/"><span class="flaticon-011-instagram"></span></a>
+                <a href="/"><span class="flaticon-010-linkedin"></span></a>
+                <a href="/"><span class="flaticon-008-youtube"></span></a>
+            </div>
+        </section>
+        <nav>
+            <section class="nav-logo-container">
+                <a href="/"><img src="./assets/img/Logo-negro.png" alt=""></a>
+            </section>
+            <section class="profile-link">
+                <a href="/perfil.html">Sobre mí</a>
+            </section>
+        </nav>
+    </header>
+    <main>
+        <section class="gird-container blogpost-img-container">
+            <img src="./assets/img/main-news-img.png" alt="">
+        </section>
+        <section class="blogpost-main-container">
+            <div class="gird-container">
+                <h3>Noticias</h3>
+                <article>
+                    <h1>Título del Blogpost</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos nulla maxime, at vel molestiae ducimus numquam repellat. Dicta voluptate eos pariatur ad ea, voluptatem ullam sint nisi, tempore esse cum!</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam expedita id eveniet dolorem dignissimos quasi ab minima fuga consequuntur, numquam quis amet ratione aperiam odit reprehenderit, possimus praesentium adipisci illum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere alias quo sit distinctio eaque iste commodi minus nostrum nesciunt maiores quas, nemo explicabo, numquam similique exercitationem in. Aliquam, nisi? Ratione. Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias doloremque quaerat laborum aliquid quam qui nisi, maiores pariatur corporis natus ipsa neque odio expedita cum. Quod consequuntur eligendi cupiditate officiis!</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci quos perspiciatis odio ad, earum soluta quis esse similique obcaecati dolore odit reprehenderit repudiandae sint, voluptates vero iusto sunt explicabo Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel rem quisquam consectetur in velit mollitia suscipit culpa corrupti eaque, maiores cumque minima labore voluptate. Numquam dolorum quae praesentium quo voluptas!</p>
+                </article>
+            </div>
+        </section>
+        <section class="contact-main-container">
+            <div>
+                <img src="./assets/img/newletter.png" alt="">
+                <div class="contact-left">
+                    <a href="">¡Suscríbete!</a>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                </div>
+            </div>
+            <div>
+                <img src="./assets/img/like.png" alt="">
+                <div class="contact-right">
+                    <a href="">Contacto</a>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </footer>
+</body>
+</html>
